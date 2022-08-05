@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "location_id": 1,
+            "aisle": "frozen",
+            "section": 1,
+            "shelf": "a",
+            "division": 1,
+            "product_id": 1,
+            "name": "Stake Srilion 1 lb",
+            "brand": "Waimin",
+            "price": "18.79",
+            "quantity": 250
+        }
+    ]
+}
